@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="panel_width">340dp</dimen>
+    <dimen name="panel_radius">18dp</dimen>
+    <dimen name="row_radius">12dp</dimen>
+    <dimen name="row_icon">22dp</dimen>
+</resources>

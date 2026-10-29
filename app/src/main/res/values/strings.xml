@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Skittles Player</string>
+    <string name="empty_message">Open a video from any app, or press OK to browse</string>
+    <string name="settings">Settings</string>
+    <string name="speed">Speed</string>
+    <string name="audio">Audio</string>
+    <string name="subtitles">Subtitles</string>
+    <string name="screen">Screen</string>
+    <string name="buffer">Buffer</string>
+    <string name="restart">Restart</string>
+    <string name="open_file">Open file</string>
+    <string name="info">Info</string>
+    <string name="off">Off</string>
+    <string name="none">None</string>
+    <string name="no_picker">No file browser found on this device. Open the video from a file manager with \"Open with\" instead.</string>
+    <string name="play_error">Can\'t play this file</string>
+    <string name="rewind">Rewind</string>
+    <string name="fast_forward">Fast forward</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_55">#8CFFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="panel_bg">#E0141418</color>
+    <color name="ink">#FF141418</color>
+    <color name="ink_60">#99141418</color>
+</resources>
